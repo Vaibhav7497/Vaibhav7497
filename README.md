@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vaibhav7497
+- 👋 Hi, I’m Vaibhav Tiwari
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DevOps
 
